@@ -1,0 +1,6 @@
+{
+  "name": "IoMT-Sentinel",
+  "description": "Clinical IoT cyber defense platform with simulated device telemetry, DNN threat detection, SHAP explainability, SHA-256 audit ledger, and GenAI advisory guardrails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
